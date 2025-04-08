@@ -1,6 +1,6 @@
 # Predicting-UCLA-Admissions-A-Neural-Network-Approach
-Sourena Mohit 
-Project from MIT Professional Education
+- Sourena Mohit 
+- Project from MIT Professional Education
 ## Context
 The world is developing rapidly and continuously looking for the best knowledge and experience among people. This motivates individuals globally to stand out in their jobs and seek higher degrees to enhance their skills and knowledge. Consequently, the number of students applying for Master's programs has increased substantially.
 
